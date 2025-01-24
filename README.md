@@ -1,13 +1,10 @@
-# My_First_IOS_APP
+# Prework - My_First_IOS_APP
 
+Submitted by: Troy Boxton Jr
 
-# Prework - *Name of App Here*
+**My First IOS App** is an app that... when the button is clicked the background changes colors. 
 
-Submitted by: **Your Name Here**
-
-**Name of your app** is an app that... [TODO] 
-
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
@@ -27,6 +24,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+One challenge I faced was learning the IDE of xCode.
 
 ## License
 
